@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> ad812087d6938784d6983d8cd01c6f3293fb23f9
 #!/usr/bin/python3
 """
 Flask App that integrates with AirBnB static HTML Template
