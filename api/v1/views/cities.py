@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 8a24582fdd8e1b6c3aeb1ee4c8eb3d8eed5d3421
 #!/usr/bin/python3
 """
 Flask route that returns json status response
